@@ -1,8 +1,8 @@
-package com.kerrrusha.lab_1_pizza_ordering.util.factory;
+package com.kerrrusha.lab_1_pizza_ordering.domain.factory;
 
 import static java.util.Arrays.asList;
 
-import com.kerrrusha.lab_1_pizza_ordering.domain.AdditionCostPair;
+import com.kerrrusha.lab_1_pizza_ordering.domain.model.AdditionCostPair;
 
 import java.util.List;
 

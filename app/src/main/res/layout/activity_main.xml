@@ -166,7 +166,7 @@
                 android:paddingHorizontal="20dp"/>
 
             <EditText
-                android:id="@+id/edit_text"
+                android:id="@+id/pizzaName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:ems="10"
@@ -223,7 +223,6 @@
                 android:paddingHorizontal="20dp"/>
 
             <LinearLayout
-                xmlns:android="http://schemas.android.com/apk/res/android"
                 android:id="@+id/checkbox_group"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -254,7 +253,7 @@
     </TableLayout>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/okButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
@@ -263,7 +262,7 @@
         android:text="Ok" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/resultTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"

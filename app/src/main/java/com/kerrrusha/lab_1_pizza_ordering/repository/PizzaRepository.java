@@ -1,10 +1,10 @@
 package com.kerrrusha.lab_1_pizza_ordering.repository;
 
-import static com.kerrrusha.lab_1_pizza_ordering.util.factory.AdditionCostPairFactory.createStandart;
+import static com.kerrrusha.lab_1_pizza_ordering.domain.factory.AdditionCostPairFactory.createStandart;
 import static java.util.Arrays.asList;
 
-import com.kerrrusha.lab_1_pizza_ordering.domain.Pizza;
-import com.kerrrusha.lab_1_pizza_ordering.domain.SizeWeightCostTriple;
+import com.kerrrusha.lab_1_pizza_ordering.domain.model.Pizza;
+import com.kerrrusha.lab_1_pizza_ordering.domain.model.SizeWeightCostTriple;
 
 import java.util.List;
 

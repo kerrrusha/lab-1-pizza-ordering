@@ -1,4 +1,4 @@
-package com.kerrrusha.lab_1_pizza_ordering.domain;
+package com.kerrrusha.lab_1_pizza_ordering.domain.model;
 
 import java.util.List;
 

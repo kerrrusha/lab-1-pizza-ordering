@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-import com.kerrrusha.lab_1_pizza_ordering.domain.Pizza;
+import com.kerrrusha.lab_1_pizza_ordering.domain.model.Pizza;
 import com.kerrrusha.lab_1_pizza_ordering.repository.PizzaRepository;
 
 import java.util.List;

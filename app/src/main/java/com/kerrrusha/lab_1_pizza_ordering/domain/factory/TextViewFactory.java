@@ -1,10 +1,10 @@
-package com.kerrrusha.lab_1_pizza_ordering.util.factory;
+package com.kerrrusha.lab_1_pizza_ordering.domain.factory;
 
 import android.app.Activity;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.kerrrusha.lab_1_pizza_ordering.domain.Vector4;
+import com.kerrrusha.lab_1_pizza_ordering.domain.model.Vector4;
 
 public class TextViewFactory {
 
